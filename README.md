@@ -18,16 +18,19 @@
     <tr>
       <td>
         <a href="https://velog.io/@whddnjs1715" title="개발 블로그">
-          <img width="252" alt="스크린샷 2021-07-29 오전 8 21 27" src="https://user-images.githubusercontent.com/73818206/165735685-1603d730-dbe0-4b79-b7cc-a2b674d74004.png">
+          <img width="152" alt="스크린샷 2021-07-29 오전 8 21 27" src="https://user-images.githubusercontent.com/73818206/165735685-1603d730-dbe0-4b79-b7cc-a2b674d74004.png">
         </a>
       </td>
       <td>
-        <a></a>
+        <a href="https://cafe.naver.com/woholfriends/30081" title="여행">
+          <img width="152" alt="스크린샷 2021-07-29 오전 8 21 27" src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/4fe2ffa0-7040-46c7-a6c9-322c1fe46515/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220428%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220428T104846Z&X-Amz-Expires=86400&X-Amz-Signature=83f42811f7a5a0ea0803dfafc7808cb589a2e0fd89d105511f935adc6a52e961&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject">
+        </a>
       </td>
       <td>
-        <a></a>
+        <a href="https://cafe.naver.com/woholfriends/27482" title="집">
+          <img width="152" alt="스크린샷 2021-07-29 오전 8 21 27" src="https://user-images.githubusercontent.com/73818206/165737271-0cab7c23-040c-4b34-8c23-90037f8c9553.jpg">
+        </a>
       </td>
     </tr>
   </tbody>
 </table>
-
