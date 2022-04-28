@@ -8,3 +8,10 @@
 <img src="https://img.shields.io/badge/-React-222222?style=for-the-badge&logo=react">
 <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=ffffff">
   </p>
+  
+  <br/>
+
+<h2>My Blog</h2>
+<a href="https://velog.io/@whddnjs1715" title="개발 블로그">
+          <img align="center" src="" width="300" alt-text="">
+        </a>
