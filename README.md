@@ -13,7 +13,21 @@
 <br/>
 
 <h2>My Blog</h2>
-<a href="https://velog.io/@whddnjs1715" title="개발 블로그">
-  <img width="252" alt="스크린샷 2021-07-29 오전 8 21 27" src="https://user-images.githubusercontent.com/73818206/165735685-1603d730-dbe0-4b79-b7cc-a2b674d74004.png">
-</a>
+<table>
+  <tbody>
+    <tr>
+      <td>
+        <a href="https://velog.io/@whddnjs1715" title="개발 블로그">
+          <img width="252" alt="스크린샷 2021-07-29 오전 8 21 27" src="https://user-images.githubusercontent.com/73818206/165735685-1603d730-dbe0-4b79-b7cc-a2b674d74004.png">
+        </a>
+      </td>
+      <td>
+        <a></a>
+      </td>
+      <td>
+        <a></a>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
