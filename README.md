@@ -12,7 +12,7 @@
   
 <br/>
 
-<h2>My Blog</h2>
+<h2>My Blog 📚</h2>
 <table>
   <tbody>
     <tr>
