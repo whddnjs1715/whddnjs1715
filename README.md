@@ -37,5 +37,5 @@
 
 <h2>My Notion 📚</h2>
         <a href="https://www.notion.so/2-2-8edca103f948438f9f53cf17dea14704" title="Notion">
-          <img width="152" alt="스크린샷 2021-07-29 오전 8 21 27" src="https://user-images.githubusercontent.com/73818206/165735685-1603d730-dbe0-4b79-b7cc-a2b674d74004.png">
+          <img width="152" alt="스크린샷 2021-07-29 오전 8 21 27" src="">
         </a>
