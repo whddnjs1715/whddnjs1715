@@ -23,7 +23,7 @@
       </td>
       <td>
         <a href="https://cafe.naver.com/woholfriends/30081" title="개인블로그1">
-          <img width="152" alt="개인블로그1" src="https://cafe.naver.com/common/storyphoto/viewer.html?src=https%3A%2F%2Fcafeptthumb-phinf.pstatic.net%2FMjAxODEwMTdfMTg5%2FMDAxNTM5NzA5MDc0NjU1.q4f1NFgo-Iqp0afo00HzyWtXjutVtAqsuYxNnDsTQXsg.8X3UlwKh1PKGPTne6pwXHwKx6-_tPvxf4nAQ5fsssDog.JPEG.whddnjs1715%2FInkedIMG_8849_LI.jpg%3Ftype%3Dw1600">
+          <img width="152" alt="개인블로그1" src="https://user-images.githubusercontent.com/73818206/173187434-d7c67a1c-9736-4958-99d3-65cad1ca49dc.JPG">
         </a>
       </td>
       <td>
