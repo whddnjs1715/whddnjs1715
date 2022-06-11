@@ -23,7 +23,7 @@
       </td>
       <td>
         <a href="https://cafe.naver.com/woholfriends/30081" title="개인블로그1">
-          <img width="152" alt="개인블로그1" src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/4fe2ffa0-7040-46c7-a6c9-322c1fe46515/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220428%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220428T104846Z&X-Amz-Expires=86400&X-Amz-Signature=83f42811f7a5a0ea0803dfafc7808cb589a2e0fd89d105511f935adc6a52e961&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject">
+          <img width="152" alt="개인블로그1" src="https://cafe.naver.com/common/storyphoto/viewer.html?src=https%3A%2F%2Fcafeptthumb-phinf.pstatic.net%2FMjAxODEwMTdfMTg5%2FMDAxNTM5NzA5MDc0NjU1.q4f1NFgo-Iqp0afo00HzyWtXjutVtAqsuYxNnDsTQXsg.8X3UlwKh1PKGPTne6pwXHwKx6-_tPvxf4nAQ5fsssDog.JPEG.whddnjs1715%2FInkedIMG_8849_LI.jpg%3Ftype%3Dw1600">
         </a>
       </td>
       <td>
