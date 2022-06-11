@@ -28,7 +28,7 @@
       </td>
       <td>
         <a href="https://cafe.naver.com/woholfriends/27482" title="개인블로그2">
-          <img width="152" alt="개인블로그2" src="https://user-images.githubusercontent.com/73818206/165737271-0cab7c23-040c-4b34-8c23-90037f8c9553.jpg">
+          <img width="152" alt="개인블로그2" src="https://user-images.githubusercontent.com/73818206/173187295-74d9e3dd-9744-462b-a5f6-f38603e8dab7.jpeg">
         </a>
       </td>
     </tr>
@@ -39,4 +39,3 @@
         <a href="https://www.notion.so/2-2-8edca103f948438f9f53cf17dea14704" title="Notion">
           <img width="152" alt="Notion" src="https://user-images.githubusercontent.com/73818206/166163279-9a2f83e3-3650-414e-9fa2-4c1471371960.png">
         </a>
-
