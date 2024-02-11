@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/-Next.js-222222?style=for-the-badge&logo=Next.js">
   <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=ffffff">
 </p>
-  
+   
 <br/>
 
 <h2>My Blog 📚</h2>
