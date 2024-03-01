@@ -1,6 +1,6 @@
 <h1>Hello, Welcome my Github!
   <img align="right" src="https://user-images.githubusercontent.com/73818206/165729401-b2c26fc7-ebe5-49ea-9b8c-d196f4c7d587.JPG" height="30%" width="30%">
-</h1>
+
 
 
 
@@ -44,3 +44,5 @@
         <a href="https://www.notion.so/2-2-8edca103f948438f9f53cf17dea14704" title="Notion">
           <img width="152" alt="Notion" src="https://user-images.githubusercontent.com/73818206/166163279-9a2f83e3-3650-414e-9fa2-4c1471371960.png">
         </a>
+
+</h1>
