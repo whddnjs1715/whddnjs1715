@@ -1,9 +1,9 @@
 <h1>Hello, Welcome my Github! <img align="right" src="https://user-images.githubusercontent.com/73818206/165729401-b2c26fc7-ebe5-49ea-9b8c-d196f4c7d587.JPG" height="30%" width="30%"> </h1>
 
-<h3> My tech stack 📚</h3>
+<h3> My LinkedIn 👨‍💻</h3>
 <br/>
   <a href="https://www.linkedin.com/in/whddnjs1715/" title="개발 블로그">
-    <img width="433" alt="스크린샷 2024-03-01 10 55 39" src="https://github.com/whddnjs1715/whddnjs1715/assets/73818206/396af7ea-39ac-4359-b4d2-e5ac33c8d5cf">
+    <img alt="스크린샷 2024-03-01 10 55 39" src="https://github.com/whddnjs1715/whddnjs1715/assets/73818206/396af7ea-39ac-4359-b4d2-e5ac33c8d5cf" width="15%">
   </a>
 
 <h3> My tech stack 📚</h3>
@@ -18,7 +18,7 @@
    
 <br/>
 
-<h3>My Blog 📚</h3>
+<h3>My Blog 🎑</h3>
 <table>
   <tbody>
     <tr>
@@ -41,7 +41,7 @@
   </tbody>
 </table>
 
-<h3>My Notion 📚</h3>
+<h3>My Notion 🎶</h3>
   <a href="https://www.notion.so/2-2-8edca103f948438f9f53cf17dea14704" title="Notion">
     <img width="152" alt="Notion" src="https://user-images.githubusercontent.com/73818206/166163279-9a2f83e3-3650-414e-9fa2-4c1471371960.png">
   </a>
