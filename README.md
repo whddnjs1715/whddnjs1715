@@ -3,7 +3,7 @@
 <h3> My tech stack 📚</h3>
 <br/>
   <a href="https://www.linkedin.com/in/whddnjs1715/" title="개발 블로그">
-    <img width="152" alt="개발블로그" src="https://user-images.githubusercontent.com/73818206/165735685-1603d730-dbe0-4b79-b7cc-a2b674d74004.png">
+    <img width="433" alt="스크린샷 2024-03-01 10 55 39" src="https://github.com/whddnjs1715/whddnjs1715/assets/73818206/396af7ea-39ac-4359-b4d2-e5ac33c8d5cf">
   </a>
 
 <h3> My tech stack 📚</h3>
