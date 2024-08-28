@@ -23,7 +23,7 @@
   <tbody>
     <tr>    
       <td>
-        <a href="https://velog.io/@whddnjs1715" title="개발 블로그">
+        <a href="https://velog.io/@whddnjs1715" title="개발 블로그">    
           <img width="152" alt="개발블로그" src="https://user-images.githubusercontent.com/73818206/165735685-1603d730-dbe0-4b79-b7cc-a2b674d74004.png">
         </a>
       </td>
