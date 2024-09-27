@@ -1,7 +1,7 @@
 <h1>Hello, Welcome my Github! <img align="right" src="https://user-images.githubusercontent.com/73818206/165729401-b2c26fc7-ebe5-49ea-9b8c-d196f4c7d587.JPG" height="30%" width="30%"> </h1>
 
 <h3> My LinkedIn 👨‍💻 </h3> 
-<br/>
+<br/>   
   <a href="https://www.linkedin.com/in/whddnjs1715/" title="개발 블로그">           
     <img alt="스크린샷 2024-03-01 10 55 39" src="https://github.com/whddnjs1715/whddnjs1715/assets/73818206/396af7ea-39ac-4359-b4d2-e5ac33c8d5cf" width="15%">
   </a>
