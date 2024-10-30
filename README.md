@@ -7,7 +7,7 @@
   </a>       
                  
 <h3> My tech stack 📚</h3>                
-<br/>              
+<br/>                
 <p>
   <img src="https://img.shields.io/badge/-React-222222?style=for-the-badge&logo=react">
   <img src="https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23FFCE5A&color=%23FFCE5A">
